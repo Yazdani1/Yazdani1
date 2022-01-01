@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Yazdani1/Yazdani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm MD NOOR E YAZDANI CHOWDHURY. I am a full stack software developer. I work on MERN Stack. On top of that i have enough knowledge on UI/UX. I use adobe xd to design UI/UX.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... Several MERN Stack project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
